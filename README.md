@@ -10,7 +10,7 @@ A **React-based web app** that fetches and displays educational courses from the
 
 Top Courses is a responsive web app designed to help users explore educational courses across various categories. It features a clean UI with a fixed navbar, filterable categories, and interactive course cards. The app fetches data dynamically from the CodeHelp API, includes a loading spinner for better UX, and provides toast notifications for user actions.
 
-🚀 **Live Demo**: [Explore Top Courses on Netlify](https://top-courses.netlify.app)
+🚀 **Live Demo**: [Explore Top Courses on Netlify](https://top-courses-one.netlify.app/)
 
 ---
 
