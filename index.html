@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite + React</title>
+  </head>
+  
+  
+  
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+
+
+
+
+    </html>
+
+
+<!-- 1 -->
+<!-- Now start as used to do in cra  <- app.js <- main.jsx <-  index.html   -->
+ 
+<!--2  -->
+<!-- index using main.jsx and main.jsx using app.js and app.jsx using other components -->
+
+<!-- 3 -->
+ <!-- It’s a one-way flow: index.html loads main.jsx, and main.jsx mounts the React app into the DOM provided by index.html. There’s no circular or "vice versa" dependency. -->
+
+ <!-- main.jsx:
+Contains: createRoot(document.getElementById('root')).render(...)
+Role: Uses React to render the app (<App /> and <ToastContainer>) into the DOM element with id="root". -->
+<!-- Dependency: main.jsx relies on index.html because document.getElementById('root') looks for the <div id="root"> defined in index.html. Without index.html providing this element, main.jsx would fail (it wouldn’t find root). -->
