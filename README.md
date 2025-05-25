@@ -39,7 +39,7 @@ Top Courses is a responsive web app designed to help users explore educational c
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Screenrecording
 
 ### Demo GIF
 ![Top Courses Demo](topcourses.gif)  
@@ -114,7 +114,7 @@ Top Courses is a responsive web app designed to help users explore educational c
 
 Feel free to reach out for collaboration or feedback:  
 📧 **Email**: 5kushbhardwaj7@gmail.com  
-🔗 **LinkedIn**: [Kush Sharma](https://linkedin.com/in/kush-bhardwaj7)  
+🔗 **LinkedIn**: [Kush Bhardwaj](https://linkedin.com/in/kush-bhardwaj7)  
 💻 **GitHub**: [root-kush369](https://github.com/root-kush369)
 
 ---
